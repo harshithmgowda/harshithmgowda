@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Harshith Gowda</h1>
+<h1 align="center">🚀 Harshith Gowda M</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Learner;Flutter+Developer;Building+Cool+Projects+🚀;Always+Learning+New+Things+🔥" />
