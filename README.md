@@ -36,7 +36,6 @@ role: AI/ML Engineering Student
 location: India
 
 focus:
-  - Artificial Intelligence & Machine Learning
   - Flutter Application Development
   - Backend Development with FastAPI
 
