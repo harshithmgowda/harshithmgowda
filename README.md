@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:111827,100:1E3A5F&height=210&section=header&text=Harshith%20Gowda%20M&fontSize=50&fontColor=58A6FF&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Python%20Backend&descFontSize=18&descAlignY=65&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,30:800E13,65:0D1117,100:1E3A5F&height=220&section=header&text=Harshith%20Gowda%20M&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Python%20Backend&descFontSize=18&descAlignY=62&descAlign=50&animation=twinkling"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=%E2%9CA8+Architecting+Scalable+Mobile+%26+Cloud+Apps;%F0%9F%94%A5+Flutter+%7C+Python+%7C+FastAPI+%7C+Flask;%F0%9F%9A%80+Turning+Complex+Logic+Into+Production+Code;%F0%9F%A7%A0+Clean+Architecture+%7C+Modern+UI%2FUX;%F0%9F%9B%A0%EF%B8%8F+Always+Building+%26+Pushing+to+Prod" />
 
 <p align="center">
@@ -31,6 +31,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithmgowda&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1A2A4A&hide_border=true&custom_title=Activity%20Timeline" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:111827,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:800E13,100:E63946&height=120&section=footer"/>
 
 </div>
+
