@@ -25,7 +25,11 @@
 </p>
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,flask,cpp,c&perline=7&theme=dark" />
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,postman,docker,git,github&perline=7&theme=dark" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,postman,docker,git,github&perline=7&theme=dark" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=FFFFFF" />
+</p>
 
 <img height="165" src="https://streak-stats.demolab.com?user=harshithmgowda&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=12" />
 
@@ -34,4 +38,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:800E13,100:E63946&height=120&section=footer"/>
 
 </div>
-
